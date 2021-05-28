@@ -1,6 +1,6 @@
 from skimage import data
 import matplotlib.pyplot as plt
-from hw1.funcs import *
+from Curves_Surfaces_Calculus_of_Variations.funcs import *
 import time
 
 # load gray-scale "cameraman" image to np.array.
