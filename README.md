@@ -1,2 +1,2 @@
 # GeometricLearning
-Networks, Graphs and Signal Processing
+Neural Networks, Graphs and Signal Processing
